@@ -3,7 +3,7 @@
 # OpsCore v2 Portal System for EVE Online
 ### Managed Corporation & Alliance Infrastructure
 
-![OpsCore Banner](https://user-images.githubusercontent.com/[YOUR_IMAGE_LINK_HERE])
+[![OpsCore Banner](https://github.com/opscore-sysdamin/Opscorev2-portal/blob/main/logo2.jpg) 
 
 > **⚠️ Disclaimer**
 > The "OpsCore v2 Portal System" is a third-party software tool created exclusively for the **EVE Online** community. It is a fan-made project for virtual corporation management and is in no way affiliated with, endorsed by, or related to Gentex Corporation or the "Ops-Core" tactical helmet/equipment brand. This tool is for internet spaceships, not tactical ballistics.
